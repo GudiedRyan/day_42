@@ -1,0 +1,13 @@
+body {
+    background-image: url("pittsburgh.jpg");
+}
+
+div {
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10%;
+}
